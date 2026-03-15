@@ -221,7 +221,6 @@ Users are responsible for ensuring that the dataset and code are used in accorda
 
 **Ummay Maimona Chaman**  
 Undergraduate Student – Computer Science & Engineering at BRAC University
-Deep Learning Project : Deepfake Detection using **XceptionNet and Grad-CAM**
+GitHub: https://github.com/UmmayMaimonaChaman
 
-GitHub: [https://github.com/yourusername](https://github.com/UmmayMaimonaChaman)
 ⭐ If you find this project useful, please consider starring the repository. Also, let me know for any suggestions :)
